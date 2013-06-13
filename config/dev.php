@@ -12,5 +12,5 @@ $app['db.options'] = array(
     'host'     => 'localhost',
     'dbname'   => 'northwind',
     'user'     => 'root',
-    'password' => '',
+    'password' => 'admin',
 );
